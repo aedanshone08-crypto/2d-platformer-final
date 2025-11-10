@@ -7,6 +7,7 @@ TagManager:
   - Hazard
   - Ground
   - Death
+  - Next level
   layers:
   - Default
   - TransparentFX
