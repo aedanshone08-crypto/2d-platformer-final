@@ -15,4 +15,5 @@ This is my first game project that I have done.
 <img width="448" height="300" alt="image" src="https://github.com/user-attachments/assets/f85bf9e4-6f3d-42eb-8636-a37b60d855a1" /> This is the second part of the jump script.
 <img width="448" height="300" alt="image" src="https://github.com/user-attachments/assets/3c36d071-9d5c-4fe7-b9df-2071e5ebf982" /> This is the damage script.
 
-The jump script and the movement script are seperate script because of scripting and because them both behave differently.
+The jump script and the movement script are seperate script because of scripting and because them both behave differently. 
+One of them is is specifically just the X axis and the other one Y axis.
